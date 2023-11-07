@@ -60,12 +60,12 @@ p{
 a{
     display: block;
     background-color: #FFFE39;
+    color: #000000;
     padding: 20px;
     border-radius: 8px;
     margin-top: 20px;
     text-decoration: none;
     font-size: 20px;
-    color: white;
 }
 h1{
     font-size: 55px;
